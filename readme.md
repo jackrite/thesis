@@ -59,6 +59,7 @@ focused mainly on the implementation of the deep learning approach from 3d trans
 # Satiation decreasing effect on brain activation in insula and orbital frontal cortex
 
 ## Bachelor's thesis
+
 Abstract
 
 The reward value of food taste is represented in the orbital frontal cortex (OFC). The
