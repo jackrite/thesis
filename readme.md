@@ -4,7 +4,34 @@
 
 ## Master's thesis (pending publication)
 
+Abstract
 
+Parkinson’s disease (PD) is a disorder that affects the nervous system. In the long term,
+parts of the brain deteriorate causing involuntary movements of the body. Among
+the noticeable motor symptoms, the gait of the individual is gradually perturbed over
+time. The progression and severity of PD symptoms are currently assessed via the
+Unified Parkinson’s Disease Rating Scale (UPDRS) and the Hoenh & Yahr (HY) scale.
+This UPDRS consists of subjective ratings in questionnaires filled by the patient, their
+caregivers and the clinician. Since subjective ratings might be subject to inconsistencies,
+there is a growing demand to provide quantitative assessments of gait. Gait parameters
+extracted from wearable digital devices worn by the PD patient have the potential
+to help with the diagnosis, as well as, predict PD progression. The challenge is to
+accurately validate the gait parameters as digital biomarkers to detect PD and monitor
+its progression.
+Instead of performing multiple single statistical analyses per outcome, the latent
+time joint mixed effects model (LTJMM) can take into account the correlation among
+multiple outcomes simultaneously for modeling multiple long-term trajectories. Two
+cohorts of patients (Erlangen and NCERPD) have been analyzed with the LTJMM.
+Despite the absence of the HY stage of the patient in the formula of the LTJMM, the
+latent time ordering of PD patients reflected the HY progression of the severity of the
+patient.
+Moreover, linear modeling techniques testing the association of gait parameters with
+UPDRS ratings were used in different frameworks. Both the longitudinal analysis
+(Erlangen) and the cross-sectional one (NCERPD) revealed that Gait speed, Stride
+length, Stride time and Stance time were associated with the clinical score axial score.
+These results have important implications for clinicians and PD patients. They could
+improve the objective rating accuracy of motor symptoms of PD patients and their
+progression.
 
 
 
@@ -51,3 +78,6 @@ the pleasantness value of the milkshake and on BOLD signals in the OFC. Satiatio
 was associated with a decreasing BOLD signal in the mid-insula. However, there is
 no evidence that the new method has reliably measured satiation. Therefore, the
 validity of the results is questionable.
+
+
+
