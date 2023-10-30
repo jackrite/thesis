@@ -42,7 +42,7 @@ progression.
 Goal of the experiment
 
 From the transient, several methods exist to reconstruct the hidden 3d object such as in
-the approaches with diffuse mirrors [3] or with the light-cone transform [6]. Instead of
+the approaches with diffuse mirrors or with the light-cone transform. Instead of
 implementing a specific reconstruction algorithm from transient to object, the approach in
 this lab was to implement a deep learning approach to reconstruct the 3d hidden object from
 transient. However, the TOF transient in NLOS are computationally intensive to process.
